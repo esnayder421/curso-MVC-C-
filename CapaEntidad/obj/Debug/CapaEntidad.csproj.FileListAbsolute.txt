@@ -1,0 +1,10 @@
+C:\Users\Paola Quiroz\source\repos\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Paola Quiroz\source\repos\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Paola Quiroz\source\repos\CursoMVC\CapaEntidad\bin\Debug\EntityFramework.dll
+C:\Users\Paola Quiroz\source\repos\CursoMVC\CapaEntidad\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paola Quiroz\source\repos\CursoMVC\CapaEntidad\bin\Debug\EntityFramework.xml
+C:\Users\Paola Quiroz\source\repos\CursoMVC\CapaEntidad\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paola Quiroz\source\repos\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Paola Quiroz\source\repos\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Paola Quiroz\source\repos\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Paola Quiroz\source\repos\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
